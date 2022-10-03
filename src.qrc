@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>windowsIcon.png</file>
+    </qresource>
+</RCC>
